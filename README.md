@@ -1,8 +1,8 @@
 # go-metrics
 
+Getting hands on with golang and prometheus integration
 
-
-# Pre-req
+## Pre-req
 
 - Install the following
 
@@ -13,7 +13,7 @@
     ```
 
 
-# Getting started
+## Getting started
 
 - `make start-run`
 - `make start-metrics`
@@ -26,7 +26,7 @@
     - Click "Save & Test" to verify the connection.
 - Go to explore page on grafana (http://localhost:3000) and view metrics
 
-# Clean up
+## Clean up
 
 - `make stop-run`
 - `make stop-metrics`
