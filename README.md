@@ -30,3 +30,10 @@ Getting hands on with golang and prometheus integration
 
 - `make stop-run`
 - `make stop-metrics`
+
+
+## Resources
+
+- https://prometheus.io/docs/concepts/metric_types/
+- https://prometheus.io/docs/concepts/data_model/
+- https://prometheus.io/docs/tutorials/getting_started/
